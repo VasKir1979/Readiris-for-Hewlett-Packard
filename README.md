@@ -2,12 +2,15 @@
 # What is Readiris 16 for HP and what is it used for?
 Readiris 16 for HP is a software designed for conversion of all type of documents (e.g. Word, Excel, PDF, JPG, etc.) into editable digital files. 
 # Install instructions
-1. First, download and run the setup.exe file on Your PC and finish the installation process. 
-2. Create new account After the installation process, pl and registration proce
-2. Define your target audience.
-3. Define the deliverable you will create for your target audience.
-4. Develop the UA asset.
-5. Publish the UA asset.
+1. Download and run the setup.exe file on Your PC and finish the installation process. 
+2. Register Your HP device and create a new account.
+3. When Your registration is complete, open the application and You will be introduced to the following image on Your monitor.
+4.
+5. 
+6. Define your target audience.
+7. Define the deliverable you will create for your target audience.
+8. Develop the UA asset.
+9. Publish the UA asset.
 # Templates
 To make your work easier, there are several templates that represent the different information types you can use to write your software documentation.
 When writing your pages, make sure you keep the different types of information clearly separated. This means that you use:
